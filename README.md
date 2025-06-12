@@ -1,29 +1,27 @@
-# 👋 Merhaba, ben Zehra!
+# 👋 Hi, I'm Zehra!
 
-Ben bir yazılım meraklısıyım ve özellikle **backend geliştirme**, **yapay zeka**, ve **görüntü işleme** konularına ilgi duyuyorum. Yeni teknolojileri öğrenmeyi ve projeler geliştirmeyi seviyorum.
+I'm a software enthusiast with a strong interest in **backend development**, **artificial intelligence**, and **computer vision**. I enjoy learning new technologies and working on projects.
 
-## 💻 İlgi Alanlarım
-- 🤖 Yapay Zeka ve Görüntü İşleme (Computer Vision)
-- 🎯 Görme engelliler için teknolojik çözümler üretmek
-- 🔊 Sesli komut sistemleri ile etkileşimli uygulamalar
-- 🎓 Sürekli öğrenme ve projelerle gelişme
+## 💻 My Interests
+- 🤖 Artificial Intelligence and Computer Vision
+- 🎯 Developing technological solutions for visually impaired people
+- 🔊 Interactive applications with voice command systems
+- 🎓 Continuous learning and growth through projects
 
-## 🚀 Üzerinde Çalıştığım Projeler
-- 🧭 Kamera tabanlı yön bulma ve nesne tanıma uygulaması
-- 🔊 Visual odometry ile kamera hareketleri çıkarımı
-- 🧠 YOLO ve MiDaS tabanlı görüntü işleme sistemleri
-- 🗂️ Backend API projeleri 
+## 🚀 Projects I'm Working On
+- 🧭 Camera-based navigation and object detection application
+- 🔊 Visual odometry for camera motion estimation
+- 🧠 Image processing systems based on YOLO and MiDaS
+- 🗂️ Backend API projects
 
-## 🛠️ Kullandığım Teknolojiler
-- **Diller:** Python, C, C#, Java
-- **Frameworkler:** Flask
-- **Veritabanları:** MSSQL Server
-- **Araçlar:** Git, GitHub, Postman, VS Code
+## 🛠️ Technologies I Use
+- **Languages:** Python, C, C#, Java
+- **Frameworks:** Flask
+- **Databases:** MSSQL Server
+- **Tools:** Git, GitHub, Postman, VS Code
 - **AI & CV:** OpenCV, YOLOv8, TensorFlow, PyTorch
 
-## 📫 Bana Ulaşın
-Eğer projelerim ilginizi çektiyse ya da iletişime geçmek isterseniz:
-- ✉️ E-posta: `fatimazehraozyurek@gmail.com`
-- 💬 LinkedIn: linkedin.com/in/zehra-özyürek
-
-
+## 📫 Get in Touch
+If you find my projects interesting or want to connect, feel free to reach out:  
+- ✉️ Email: `fatimazehraozyurek@gmail.com`  
+- 💬 LinkedIn: [linkedin.com/in/zehra-özyürek](https://linkedin.com/in/zehra-özyürek)

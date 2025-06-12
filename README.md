@@ -24,6 +24,6 @@ Ben bir yazılım meraklısıyım ve özellikle **backend geliştirme**, **yapay
 ## 📫 Bana Ulaşın
 Eğer projelerim ilginizi çektiyse ya da iletişime geçmek isterseniz:
 - ✉️ E-posta: `fatimazehraozyurek@gmail.com`
-- 💬 LinkedIn: linkedin.com/in/zehra-özyürek
+- 💬 LinkedIn: https://www.linkedin.com/in/zehra-%C3%B6zy%C3%BCrek-a571342b2/
 
 

@@ -24,4 +24,4 @@ I'm a software enthusiast with a strong interest in **backend development**, **a
 ## 📫 Get in Touch
 If you find my projects interesting or want to connect, feel free to reach out:  
 - ✉️ Email: `fatimazehraozyurek@gmail.com`  
-- 💬 LinkedIn: [linkedin.com/in/zehra-özyürek](https://linkedin.com/in/zehra-özyürek)
+- 💬 LinkedIn: [linkedin.com/in/zehra-özyürek](https://www.linkedin.com/in/zehra-%C3%B6zy%C3%BCrek-a571342b2/)
